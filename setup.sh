@@ -17,7 +17,7 @@ printf "
 printf "_________________________
 | Tool: Termux Banner                       |
 | Coder---> Error 4 You                     |
-| Github: github.com/Error-For-You  |
+| Github: github.com/Error-4-You  |
 |______________________________|
 
 "|lolcat pv -qL 15
